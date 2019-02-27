@@ -20,7 +20,7 @@ ms.locfileid: "52406452"
 ---
 # <a name="whats-new-in-sql-server-2017"></a>Novedades de SQL Server 2017
 [!INCLUDE[tsql-appliesto-ss2017-xxxx-xxxx-xxx-md](../includes/tsql-appliesto-ss2017-xxxx-xxxx-xxx-md.md)]
-SQL Server 2017 representa un paso importante hacia convertir SQL Server en una plataforma que proporciona opciones de lenguajes de desarrollo, tipos de datos, ya sean locales o en la nube, y sistemas operativos con la eficacia de SQL Server en Linux, contenedores de Docker basados en Linux y Windows. En este tema se resumen las novedades de determinadas áreas de características y se incluyen vínculos a información adicional. Para más información relacionada con SQL Server en Linux, vea [SQL Server on Linux Documentation](https://docs.microsoft.com/sql/linux/) (Documentación de SQL Server en Linux).
+SQL Server 2017 representa un paso importante hacia convertir SQL Server en una plataforma que proporciona opciones de lenguajes de desarrollo, tipos de datos, ya sean locales o en la nube, y sistemas operativos con la eficacia de SQL Server en Linux, contenedores de Docker basados en Linux y Windows. En este tema se resumen las novedades de determinadas áreas de funciones específicas y se incluyen vínculos a información adicional. Para más información relacionada con SQL Server en Linux, vea [SQL Server on Linux Documentation](https://docs.microsoft.com/sql/linux/) (Documentación de SQL Server en Linux).
 
 [![Descargar desde el Centro de evaluación](../includes/media/download2.png)](https://go.microsoft.com/fwlink/?LinkID=829477) **Pruébela:** [descargue la versión SQL Server 2017 de octubre de 2017](https://go.microsoft.com/fwlink/?LinkID=829477).
 
